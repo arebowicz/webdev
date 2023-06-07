@@ -1,0 +1,23 @@
+VS Code
+
+podstawowe komendy
+
+ctrl + shift + P    --  paleta poleceń
+ctrl + `            --  terminal
+ctrl + \            --  dzielenie ekranu edytora na dwa (domyślnie: dwa pionowe okienka)
+ctrl + alt + \      --  dzielenie ekranu edytora na dwa poziome okienka
+podzielić ekran edytora można również przez wybranie: wyświetl -> układ edytora
+a także (trzymając wciśnięty klawisz alt) klikając na ikonkę w prawym górnym rogu
+bądź przeciągając/przenosząc "kartę" z otwartym dokumentem
+ctrl + /            --  komentowanie "wierszowe"
+ctrl + shift + /    --  komentowanie "blokowe"
+
+po pobraniu GIT'a, instalacja rozszerzenia Git Graph w VS Code
+
+GIT
+
+git config --global user.email "arebowicz@gmail.com"
+git config --global user.name "Adam Rębowicz"
+git config --global init.defaultBranch main
+
+reszta (w tym inicjalizacja repozytorium i podłączenie do githuba) "wyklikane" w VS Code
